@@ -1,15 +1,21 @@
 ### Introduction  👋 
 ## 
 Hello, my name is payam saemi.
-I am a computer engineering student at Tehran University. I am currently working in the field of deep learning and machine learning .
+I am a computer engineering student at Tehran University. I am currently working in the field of Data engineering.
 
 ### Interested in ⚡
 ##
 * Algorithms
-* Data Science
+* Data enginnering
+* Data analysis
 * Machine Learning
 * Deep Learning
 * Data Mining
+* Data pipleline
+* Kafka
+* ETL pipeline
+* Airflow
+
 
 ### Project 📂
 ##
